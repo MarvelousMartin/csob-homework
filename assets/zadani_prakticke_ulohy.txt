@@ -1,0 +1,9 @@
+Zadání praktické úlohy:
+
+Převeďte zprávu do HTML5/CSS3 kódu
+  a. Zpráva obsahuje titulek, banner a obsah. Viz příloha <onboarding_detail.pdf>
+  b. Banner <onboarding_banner_1170x300.jpg> je na 100 % šířky stránky bez obtékání.
+  c. Celá stránka má bílé pozadí. Obsah stránky má odsazení od okraje 25px; odstavce mají odsazení zdola 25px.
+  d. Tabulka obsahuje barevné řádky (lichá/sudá). Obsah prvního sloupce je zobrazen na dva řádky. Telefonní číslo je zvýrazněné a aktivní jako telefonní odkaz.
+  e. Všechny odkazy na web csob.cz musí obsahovat referenční parametr "elbcampaign" pro možnost změření s pomocí webové analytiky.
+
